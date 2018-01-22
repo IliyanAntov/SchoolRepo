@@ -1,1 +1,1 @@
-# SchoolRepo
+Test repository for school
