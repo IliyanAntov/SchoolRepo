@@ -1,0 +1,3 @@
+[submodule "SchoolRepo"]
+	path = SchoolRepo
+	url = https://github.com/IliyanAntov/SchoolRepo
